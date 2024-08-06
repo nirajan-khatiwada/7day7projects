@@ -5,6 +5,8 @@ Welcome to the 7-day website building challenge! This project is an ambitious ef
 ## Projects Overview
 
 ### Day 1: Twitter Clone
-- **Repository**: [Day1.Twitter Clone](https://github.com/nirajan-khatiwada/tailwindprojects/tree/main/Day1.%20Twitter%20Clone) <!-- Replace with the actual URL -->
-- **Live Demo**: [Twitter Clone Live Demo](https://nirajan-khatiwada.github.io/tailwindprojects/day1.Twitter/) <!-- Replace with the actual URL -->
+- **Repository**: [Day1.Twitter Clone](https://github.com/nirajan-khatiwada/7day7projects/tree/main/Day1.TwitterClone) <!-- Replace with the actual URL -->
+- **Live Demo**: [Twitter Clone Live Demo](https://nirajan-khatiwada.github.io/7day7projects/Day1.TwitterClone/) <!-- Replace with the actual URL -->
 - **Technologies Used**: HTML, Tailwind CSS
+
+### Day 2: Youtube Clone
