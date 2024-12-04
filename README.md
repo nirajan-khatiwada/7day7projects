@@ -15,3 +15,9 @@ Welcome to the 7-day website building challenge! This project is an ambitious ef
 - **Repository**: [Day2.Youtube Clone](https://github.com/nirajan-khatiwada/7day7projects/tree/main/Day2.YoutubeClone) <!-- Replace with the actual URL -->
 - **Live Demo**: [Youtube Clone Live Demo](https://nirajan-khatiwada.github.io/7day7projects/Day2.YoutubeClone/) <!-- Replace with the actual URL -->
 - **Technologies Used**: HTML, Tailwind CSS
+
+### Day 2: Youtube Clone
+- **Repository**: [Day3.Simple Portfolio](https://github.com/nirajan-khatiwada/7day7projects/tree/main/DAY3.SimplePortfolio) <!-- Replace with the actual URL -->
+- **Live Demo**: [SimplePortfolio Live Demo](https://nirajan-khatiwada.github.io/7day7projects/DAY3.SimplePortfolio/) <!-- Replace with the actual URL -->
+- **Technologies Used**: HTML, Tailwind CSS
+
